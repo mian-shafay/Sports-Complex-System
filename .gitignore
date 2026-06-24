@@ -1,0 +1,18 @@
+# Compiled binary
+sports_management
+sports_management.exe
+
+# Object files
+*.o
+*.obj
+
+# Data files (generated at runtime)
+members.csv
+bookings.csv
+equipment.csv
+
+# Editor / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db

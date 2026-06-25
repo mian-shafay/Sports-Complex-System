@@ -100,7 +100,7 @@ A flat fine of **500 PKR** is applied when equipment is returned damaged.
 ## 👤 Author
 
 **Muhammad Shafay**  
-ICT Course Project · 2025
+Programming Fundamentals Course Project · 2025
 
 ---
 
@@ -108,8 +108,4 @@ ICT Course Project · 2025
 
 This project is for educational purposes only.
 
-## Limitations
 
-- Maximum of **500** records per category (members, bookings, equipment)
-- Clash detection is based on sport + date + exact start time
-- No password hashing — credentials are stored in plain text in source code

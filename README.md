@@ -97,6 +97,17 @@ A flat fine of **500 PKR** is applied when equipment is returned damaged.
 
 ---
 
+## 👤 Author
+
+**Muhammad Shafay**  
+ICT Course Project · 2025
+
+---
+
+## 📄 License
+
+This project is for educational purposes only.
+
 ## Limitations
 
 - Maximum of **500** records per category (members, bookings, equipment)

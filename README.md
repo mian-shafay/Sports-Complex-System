@@ -1,6 +1,6 @@
 # Air University Sports Management System
 
-A console-based Sports Management System written in C++. It allows an admin to manage gym/sports-facility members, court bookings, and equipment — with all data persisted to CSV files between sessions.
+A console-based Sports Management System written in C++. It allows an admin to manage gym/sports-facility members, court bookings, and equipment - with all data persisted to CSV files between sessions. (built as a Programming Fundamentals Project)
 
 ---
 
